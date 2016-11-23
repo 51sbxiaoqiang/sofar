@@ -1,0 +1,15 @@
+/*
+* @Author: zhangfuqiang
+* @Date:   2016-11-22 16:02:42
+* @Last Modified by:   zhangfuqiang
+* @Last Modified time: 2016-11-22 16:16:30
+*/
+div {
+	width: 300px;
+	height: 300px;
+}
+div:nth-child(1){
+	background-color: red;
+	display: transtion;
+	
+}
